@@ -1,0 +1,10 @@
+body {
+    background:#000;
+}
+
+canvas {
+    display: flex;
+    position: absolute;
+    height = 100vw;
+    width = 100vw;
+  }
